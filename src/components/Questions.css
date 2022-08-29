@@ -1,0 +1,29 @@
+.main{
+    left : 30%;
+    top: 150px;
+    position: absolute;
+    align-items: center;
+    background-color: white;
+    border-style: none;
+    border-radius: 8px;
+    padding: 50px;
+}
+.main label{
+    margin-left: 10px;
+    font-size: 17px;
+}
+.main .container{
+    margin-bottom: 10px;
+}
+.main button{
+    border: none;
+    padding: 10px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.main .submit{
+    margin-left: 30%;
+}
